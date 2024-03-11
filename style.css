@@ -30,8 +30,10 @@ body {
     text-align: right;
     outline: none;
     font-size: 25px;
-    color: #000;
+    background: #eee;
     pointer-events: none;
+    border-radius: 6px;
+    padding: 0px 10px;
 }
 
 .buttons {
