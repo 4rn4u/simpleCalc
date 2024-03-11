@@ -1,3 +1,3 @@
 A simple calculator project for practising HTML, CSS and JavaScript
 
-/![image](https://github.com/4rn4u/simpleCalc/assets/99688856/ba4cde21-c9e8-4c1e-89a7-8452a2b6fc4a)
+<img src="[https://github.com/4rn4u/simpleCalc/assets/99688856/6c837dca-6b1a-4b4f-b287-0be0e80d9e2c"  width="600" height="300">
